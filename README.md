@@ -1,1 +1,2 @@
 # ZooManagementSystem
+This Project “ZOO INFORMATION MANAGEMENT SYSTEM” is all about to have an entire detail of the "PARK" and to elaborate more on providing the visitors entry tickets, keeping the animals’ details and maintaining their birth, death& updates. "Park" faced the problems of issuing a ticket and maintaining the animal’s data by manually. It takes more time and difficult to maintain. The data are stored in SQL DB.
